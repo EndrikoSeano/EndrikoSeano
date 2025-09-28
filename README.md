@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Endriko
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&lines=Welcome+to+my+GitHub!;I'm+Endriko+🚀;Learning+Web+Development+🌱;Cloud+Computing+☁️)](https://git.io/typing-svg)
+
+---
+
 ### 🚀 About Me
 - 🌱 I’m currently learning **Web Development & Cloud Computing**  
 - 🎯 Goal: Becoming a skilled **Software Engineer**  
-- 📫 Reach me:[Email](mailto:endrikoendriko55@gmail.com)
+- 📫 Reach me: [Email](mailto:endrikoendriko55@gmail.com)
 
 ---
 
@@ -23,4 +27,8 @@
 ---
 
 ### 🌐 Connect With Me
-- [Instagram](https://instagram.com/Endr1ko)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/Endr1ko)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:endrikoendriko55@gmail.com)
+
+---
+✨ _Thanks for visiting my profile!_ ✨
